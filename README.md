@@ -20,4 +20,4 @@ Developed for the **Computer Architecture** course, this repository contains a l
 
 ## Authors
 * **Noam Hayu**
-* **Sharbel**
+* **Sharbel Marshi**
